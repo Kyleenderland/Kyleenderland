@@ -8,6 +8,7 @@ MBTI: ENFP.
 <b>OPEN TO COLLABORATION 🤝</b>
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyleenderland&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyleenderland&theme=graywhite))](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <a href="https://www.linkedin.com/in/kyle-enderland-936758157/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" alt="linkedIn's Logo" 
   style="width: 64px;"/></a>
